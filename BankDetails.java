@@ -136,7 +136,6 @@ class account{
 
     public void displayAccountInfo() {
         System.out.println("Account Information:");
-        System.out.println("---------------------");
         displayDetails();
         displayBalance();
     }
